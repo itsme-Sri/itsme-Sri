@@ -3,7 +3,7 @@ itsme-Sri/itsme-Sri is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-Hi, This is Sri Harsha Alapati but everyone calls me <b>SRI</b> <br>I'm currently working as a Security Analyst and learning WEB3<br>I enjoy learning about new technologies
+Hi, This is Sri Harsha Alapati but everyone calls me <b>SRI</b> <br>I'm currently working as a Security Analyst and learning WEB3<br>I always enjoy learning new technologies
 
 
 ## 🌐 Socials:
